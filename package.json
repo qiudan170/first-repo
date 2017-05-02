@@ -1,0 +1,22 @@
+{
+  "name": "first-repo",
+  "version": "1.0.0",
+  "description": "第一个代码仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiudan170/first-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiudan170/first-repo/issues"
+  },
+  "homepage": "https://github.com/qiudan170/first-repo#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
